@@ -1,0 +1,42 @@
+body{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: rgb(252, 220, 247);
+}
+
+.onetext {
+    background-color: rgb(255, 196, 235);
+    margin-right: 50px;
+    border-radius: 5px;
+    box-shadow:  5px 10px rgb(255, 133, 190);
+  }
+
+  .button{
+background-color: rgb(255, 133, 190);
+border-radius: 10px;
+border-color: white;
+font-size: 15px;
+  }
+
+  .buttons{
+    padding-top: 20px;
+    display: flex;
+  }
+
+  main{
+    padding-left: 150px;
+  }
+
+  footer{
+    padding-left: 150px;
+  }
+
+  .button2{
+    background-color: rgb(255, 133, 190);
+    border-radius: 10px;
+    border-color: white;
+    font-size: 15px;
+    margin-top: 10px;
+      }
