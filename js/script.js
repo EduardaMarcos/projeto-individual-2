@@ -18,12 +18,12 @@ let decodi = document.querySelector("#decodificando");
 let botao = document.querySelector(".button")
 
 codi.addEventListener("click", function () {
-    botao.innerText = "codificar";
+    botao.innerText = "Codificar";
 }
 )
 
 decodi.addEventListener("click", function () {
-    botao.innerText = "decodificar";
+    botao.innerText = "Decodificar";
 });
 
 
